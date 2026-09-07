@@ -1,3 +1,5 @@
+[![Open In Colab](https://github.com/ggrazioli/IdealGasIntroLAMMPS/Python_Chemistry_Activity.ipynb)](https://github.com/ggrazioli/IdealGasIntroLAMMPS/Python_Chemistry_Activity.ipynb)
+
 # Intro to Ideal Gas Simulations with LAMMPS
 ### A Google Colab notebook for teaching students LAMMPS ideal gas simulations without students need to install anything.
 
