@@ -10,3 +10,7 @@ by:  Minh Hoang Huynh, Bailee Rusconi, Srinitha Sridharan, Abhinav Iyer, and Gia
 <br>
 A pre-print of the article is available here: <br>
 https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008365/v1
+<br>
+<br>
+A video guide to help instructors learn to run this activity is also available here:<br>
+https://youtu.be/Iy9TdOk8boU?si=6no6GGkQd9jtKGkm
